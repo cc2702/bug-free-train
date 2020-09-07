@@ -21,7 +21,7 @@ Ostendstr. 18, 90547 Stein
 1. Numbered
 2. List
 
-**Verkehrstechnik** and _Italic_ and `Code` text
+*Verkehrstechnik* and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
