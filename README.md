@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Christian Carstensen 1
-## Jan Carstensen 2
-### Ostendstr. 18, 90547 Stein 3
+Christian Carstensen
+Jan Carstensen
+Ostendstr. 18, 90547 Stein
 
 - Bulleted
 - List
